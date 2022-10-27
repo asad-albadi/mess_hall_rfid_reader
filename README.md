@@ -8,4 +8,4 @@ This program is split into 2 parts
 - it takes the attendence of those employees at breakfast, lunch and dinner time using their RFID cards
 
 
-NOTE: I made this program in a hurry, if I see that more people are using it, I'll optimize it more, and of course I'll add more features. although I doubt it'll be used ^,^
+
